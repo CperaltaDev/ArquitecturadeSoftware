@@ -1,0 +1,5 @@
+include:
+  - project: 'credivalores/cv_cicd'
+    ref: master
+    file: '/templates/.gitlab-ci-iis-aspnet.yml'
+
